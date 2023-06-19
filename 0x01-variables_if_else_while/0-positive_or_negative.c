@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - beginning
- * return: Ensure 0
+ * main - Entry point
+ * return: Always 0
  */
 
 int main(void)
