@@ -4,7 +4,7 @@
 
 /**
  * main- beginning
- * return: 0
+ * return: Ensure 0
  */
 
 int main(void)
