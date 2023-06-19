@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main- beginning
+ * main - beginning
  * return: Ensure 0
  */
 
