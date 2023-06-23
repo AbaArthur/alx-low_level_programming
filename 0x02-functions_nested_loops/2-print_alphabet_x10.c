@@ -1,22 +1,21 @@
-#include "2-main.c"
+#include "main.h"
 
 /**
- * main- Entry Point
- * Description- program that prints 10x the alphabets
- * Return: 0
+ * print_alphabet_x10 - prints 10 times the alphabet, in lowercase,
+ * followed by new line
  */
 
-void _print_alphabet_x10(void)
-
-	char c;
-	int j = 0;
-
-	while (j <= 0 ; j++)
+void print_alphabet_x10(void)
 {
-	for (c = 97; c <= 122; c++)
-	{ 
-		_putchar(j);
-	}
-	_putchar('\n');
+	char c;
+		int i = 0;
 
+		while ('i' < 10)
+		{
+			for (c = 'a'; c = 'z'; c++)
+			_putchar(c);
+			_putchar('\n');
+			i++;
+		}
 }
+
