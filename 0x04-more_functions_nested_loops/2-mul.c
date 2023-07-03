@@ -2,13 +2,13 @@
 
 /**
  * mul - the function to multiply two integer values
- * @c - first value
- * @t second value
+ * @a - first value
+ * @b - second value
  * Return : value of multiplication
  */
 
-int mul(int c, int t);
+int mul(int a, int b);
 
 {
-	return (c * t);
+	return (a * b);
 }
