@@ -7,7 +7,7 @@
  * Return : value of multiplication
  */
 
-int mul(int a, int b);
+int mul(int c, int t);
 
 {
 	return (c * t);
